@@ -154,9 +154,6 @@ team = RoundRobinGroupChat(
     termination_condition=termination,
 )
 
-# ============================================================
-# 6. 运行主流程
-# ============================================================
 async def run_research_task(topic: str) -> None:
     print(f"\n启动研究任务:{topic}\n" + "=" * 50, flush=True)
 
