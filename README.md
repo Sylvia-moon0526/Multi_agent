@@ -1,19 +1,10 @@
-# README-2-Multi\_agent
-
 # 👥 AutoGen 多 Agent 协作研究系统
 
-```html
 <div align="center">
-```
 
-[Python](https://www.python.org/)
-[AutoGen](https://microsoft.github.io/autogen/)
-[asyncio](https://docs.python.org/3/library/asyncio.html)
-[License: MIT](LICENSE)
+[Python](https://www.python.org/) · [AutoGen](https://microsoft.github.io/autogen/) · [asyncio](https://docs.python.org/3/library/asyncio.html) · [License: MIT](LICENSE)
 
-```html
 </div>
-```
 
 > 基于微软 **AutoGen AgentChat** 构建的多 Agent 协作系统。它模拟一个小型研究团队，由不同职责的 Agent 分工协作，自动完成 **信息检索 → 数据分析 → 报告撰写 → 人工审批** 的完整研究流程。
 
